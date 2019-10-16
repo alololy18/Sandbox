@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-16T10:27:40.990Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="9dD8zz1UlIHv_MfoUplT" version="12.1.1" type="github" pages="1">
+<mxfile modified="2019-10-16T10:46:13.270Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="oI0OTfvBED9ouFT788L5" version="12.1.1" type="github" pages="1">
   <diagram id="1JJ-UvxjRfw-XplDersZ" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="339" y="483" width="88" height="61" as="geometry"/>
         </mxCell>
         <mxCell id="VsJJfjXyTHTrgc_qXbFI-52" value="AWS / VPC" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="239" y="80" width="100" height="40" as="geometry"/>
+          <mxGeometry x="125" y="20" width="100" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="VsJJfjXyTHTrgc_qXbFI-53" value="RBL Network" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="750" y="80" width="100" height="40" as="geometry"/>
